@@ -1,0 +1,16 @@
+
+body{
+   background: rgb(82, 110, 110);
+   font-family: cursive;
+}
+.para{
+    color: aliceblue;
+}
+.home{
+    color: red;
+    text-decoration: overline;
+}
+#abt{
+    color: orange;
+    text-decoration: underline;
+}
